@@ -1,0 +1,28 @@
+{
+  "name": "WeatherProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "14.17.5",
+    "npm": "6.14.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuneetThakur9132/Weather-teller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuneetThakur9132/Weather-teller/issues"
+  },
+  "homepage": "https://github.com/PuneetThakur9132/Weather-teller#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
